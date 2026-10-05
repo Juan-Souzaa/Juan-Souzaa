@@ -53,16 +53,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Projetos em destaque
-
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| [ifeats](https://github.com/Juan-Souzaa/ifeats) | App de delivery de comida com áreas de cliente, restaurante, entregador e administrador, com carrinho, checkout e rastreamento do pedido no mapa | React Native, Expo, TypeScript |
-| [sigeg-api](https://github.com/Juan-Souzaa/sigeg-api) | API REST da plataforma de delivery consumida pelo ifeats: pedidos, cardápio, cupons, pagamento, cálculo de rota e ganhos de restaurantes e entregadores | Java, Spring Boot, Docker |
-| [pokedex-mobile](https://github.com/Juan-Souzaa/pokedex-mobile) | Pokédex para celular | React Native, TypeScript |
-| [AcadamiaDevCleanArchitecture](https://github.com/Juan-Souzaa/AcadamiaDevCleanArchitecture) | Estudo de Clean Architecture | Java |
-| [vale_semear](https://github.com/Juan-Souzaa/vale_semear) | Sistema de gestão para associações: atividades, reuniões, atas, decisões e obrigações, com permissões por perfil e relatórios em PDF | Laravel, Blade |
-
 ## GitHub em números
 
 <p>
